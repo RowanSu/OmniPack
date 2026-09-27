@@ -1,0 +1,4 @@
+# OmniZip structural parameters. video_ratio/audio_ratio come from model_args.
+contextual_ratio: 0.05
+g: 3
+
